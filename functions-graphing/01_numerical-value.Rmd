@@ -1,0 +1,30 @@
+---
+title: "Numerical Value"
+author: "Lucas Stefano"
+date: "1/9/2022"
+output: html_notebook
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Exercises
+
+### Exercise 1:
+Use R to calculate a numerical value for each o these arithmetic expressions:
+
+
+
+#### 3*sqrt(97)
+```{r}
+3*sqrt(97)
+```
+
+
+
+#### sqrt(pi)
+```{r}
+sqrt(pi)
+```
+
